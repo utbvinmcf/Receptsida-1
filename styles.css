@@ -1,0 +1,41 @@
+body {
+  background-color: #A8DADC;
+  font-family: Verdana, sans-serif;
+  color: #1D3557;
+}
+
+.titlar {
+  font-size: 150%;
+}
+
+.rectangle {
+  height: 85px;
+  width: 50%;
+  border: 5px solid #E63946;
+  border-radius: 15px;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.wrapper {
+  height: auto;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: left;
+  align-items: stretch;
+}
+
+.first {
+  margin-right: 50px;
+}
+
+.pic {
+  border: 5px solid #E63946;
+  border-radius: 15px;
+  max-width: 100%;
+  height: auto;
+}
